@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kelvin K, nickname KD
+- 👋 Hi, I’m Kelvin, nickname KD
 - 👀 *****************
-- 🌱 My latest professional Code commits are on BitBucket
+- 🌱 My latest Freelance professional Code Commits are on BitBucket
 - 💞 *****************
 - 📫 email okayknighton@gmail.com
 
