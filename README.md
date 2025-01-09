@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kelvin, nickname KD
+- 👋 Hi, I’m Kelvin founder of Cleanbot
 - 👀 *****************
 - 🌱 My latest Freelance professional Code Commits are on BitBucket
 - 💞 *****************
